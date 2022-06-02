@@ -1,5 +1,5 @@
-# Spreadsheets
-Spreadsheets Tutorial Mini-Projects For Data Analytics
+# Microsoft Excel
+Microsoft Excel Tutorial Mini-Projects For Data Analytics
 
 Project Contents:
 - 1. Payroll
