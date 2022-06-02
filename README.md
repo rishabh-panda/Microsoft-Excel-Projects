@@ -1,2 +1,2 @@
-# Microsoft-Excel
-Microsoft Excel Tutorial Mini-Projects
+# Microsoft Excel
+Microsoft Excel Tutorial Mini-Projects For Data Analytics
